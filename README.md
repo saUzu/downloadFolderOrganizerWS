@@ -9,7 +9,7 @@ herhangi bir hata olursa "Documents" dosyasına log.txt dosyasını oluşturup h
 
 
 --  YAPILACAKLAR  --
-1. Aynı isimdeki bir dosyayı indirince o dosyaya atmıyor.
+1. Aynı isimdeki bir dosyayı indirince gerekli klasöre atamıyor.
 2. Hata denetimi artırılacak log dosyasına yazdırılacak.
 3. username/password girmeden işlemleri yapılabilecek hale getirilecek.
 4. İki noktalı isimliler düzeltilecek.
