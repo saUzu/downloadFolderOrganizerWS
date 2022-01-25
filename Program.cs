@@ -20,7 +20,7 @@ namespace DownloadsFolderOrganizer_cSharp
                     s.WhenStarted(dfo => dfo.Start());
                     s.WhenStopped(dfo => dfo.Stop());
                 });
-                x.RunAs("desktopname/username", "password");
+                x.RunAs(**"desktopname/username"**, "password");
                 x.SetServiceName("DownloadFolderOrganizer");
                 x.SetDisplayName("İndirilenleri Düzenleyici");
                 x.SetDescription("Bu servis indirilen dosyaları türüne göre düzenliyor.");
