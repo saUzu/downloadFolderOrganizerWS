@@ -13,3 +13,4 @@ herhangi bir hata olursa "Documents" dosyasına log.txt dosyasını oluşturup h
 2. Hata denetimi artırılacak log dosyasına yazdırılacak.
 3. username/password girmeden işlemleri yapılabilecek hale getirilecek.
 4. İki noktalı isimliler düzeltilecek.
+5. İndirilen dosya üzerinde işlem yapılamaması.
