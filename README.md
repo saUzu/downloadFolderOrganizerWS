@@ -7,11 +7,11 @@ Program.cs'deki x.RunAs()'deki parametreleri kendi bilgilerinizi girerek kullana
 
 herhangi bir hata olursa "Documents" dosyasına log.txt dosyasını oluşturup hatayı içine yazdırıyor.
 
-***Nasıl Yüklenir**
+**Nasıl Yüklenir**
 
 Compile yaptığınız klasörün yolunu kopyalayın. "CMD"'ye "<exe'nin ismi>.exe install start" komutunu girin.
 
-***Silme İşlemi***
+**Silme İşlemi**
 
 Compile yaptığınız klasörün yolunu kopyalayın. "CMD"'ye "<exe'nin ismi>.exe uninstall" komutunu girin.
 
