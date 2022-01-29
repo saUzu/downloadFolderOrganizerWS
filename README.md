@@ -22,3 +22,4 @@ Aynı şekilde "CMD"'ye "<exe'nin ismi>.exe uninstall" komutunu yazarak silin.
 3. username/password girmeden işlemleri yapılabilecek hale getirilecek.
 4. **(Bitti)** İki noktalı isimliler düzeltilecek.
 5. **(Bitti)** İndirilen dosya üzerinde işlem yapılamaması.
+6. Birden fazla indirmelerde sorun yaşayabiliyor.
